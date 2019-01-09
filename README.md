@@ -5,7 +5,7 @@ In order to use these tools, you will need to obtain a key to reddit's API which
 
 The reddit_scraper and comment_getter will get you some data. Tools for analysis are forthcoming.
 
-You can use the prompt_getter and prompt_generator to generate your own prompts.
+You can use the prompt_getter and prompt_generator to generate your own prompts. They are found in the prompt_bot file, and can have some very fun results.
 
 
 
